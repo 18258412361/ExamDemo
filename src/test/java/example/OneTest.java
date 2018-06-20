@@ -7,7 +7,7 @@ public class OneTest {
   @Test
   public void testFoo() throws Exception {
     One one = new One();
-    //Test foo 提价
+    //Test foo 提交
     assertEquals("foo", one.foo());
   }
 
